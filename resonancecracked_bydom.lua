@@ -35303,7 +35303,7 @@ Escape Timer: %*]]
 		Greetings:AddLabel({ Text = ("%s, <b>%s</b> "):format(greeting, localPlayer.DisplayName), DoesWrap = true })
 		Greetings:AddDivider()
 		Greetings:AddLabel({ Text = "Welcome to <b><font color=\"#fffb00\">Resonance crack</font></b>", DoesWrap = true })
-		Greetings:AddLabel({ Text = "cracked by: LSS", DoesWrap = true })
+		Greetings:AddLabel({ Text = "cracked by: Dom", DoesWrap = true })
 		Greetings:AddLabel({ Text = "https://discord.gg/762BXzzfHr", DoesWrap = true })
 	end
 
